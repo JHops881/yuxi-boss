@@ -44,15 +44,19 @@ This project is still in early development, and many features are planned.
 ## Screenshots
 
 Paste text.
+<br>
 <img width="401" height="478" alt="image" src="https://github.com/user-attachments/assets/376cd4a4-9fcc-4368-8826-45526d5deb98" />
 <br>
 Upload a text file.
+<br>
 <img width="249" height="482" alt="image" src="https://github.com/user-attachments/assets/8d32f8aa-bd0e-4eaf-81af-fd989e76f131" />
 <br>
-Assembled card data from an example set of words extracted from the text with their translations, pinyin, and example sentences. 
+Assembled card data from an example set of words extracted from the text with their translations, pinyin, and example sentences.
+<br>
 <img width="601" height="487" alt="image" src="https://github.com/user-attachments/assets/a6b341ea-8838-40dc-b7e2-2574242d2c72" />
 <br>
 Anki Deck output file .apkg
+<br>
 <img width="103" height="32" alt="image" src="https://github.com/user-attachments/assets/0bd04dc7-e111-4ca8-8f05-03adcb411613" />
 
 
