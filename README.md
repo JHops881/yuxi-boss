@@ -43,11 +43,11 @@ This project is still in early development, and many features are planned.
 
 ## Screenshots
 
-Paste text.
+Select an HSK level and paste text.
 <br>
 <img width="401" height="478" alt="image" src="https://github.com/user-attachments/assets/376cd4a4-9fcc-4368-8826-45526d5deb98" />
 <br>
-Upload a text file.
+Or, optionally, upload a text file instead.
 <br>
 <img width="249" height="482" alt="image" src="https://github.com/user-attachments/assets/8d32f8aa-bd0e-4eaf-81af-fd989e76f131" />
 <br>
